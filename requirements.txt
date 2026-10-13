@@ -1,9 +1,0 @@
-cat > requirements.txt << 'EOF'
-streamlit
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-openpyxl
-EOF
